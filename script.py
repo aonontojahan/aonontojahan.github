@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 PATTERN_FILE = os.path.abspath(os.path.join(os.path.dirname(__file__), "pattern.json"))
 FILE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "info.txt"))
 
-COMMITS_PER_PIXEL = 4   # lighter than darkest green
+COMMITS_PER_PIXEL = 2   # lighter than darkest green
 
 
 # -------------------------------
